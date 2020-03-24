@@ -48,9 +48,9 @@ This experiment could be the basis of a real world application such as having li
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was using a potentiometer. It was interesting learning how a basic dimmer switch works and how I could create my own.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as improving perfume bottles by using a potentiometer to determine how much or how little perfume you would like to dispense, with a bright green light showing optimal perfume levels and dimming as you change the dispenser. Pushing the button would then cause the perfume bottle to spray. 
 
 ### Experiment 4 - Using a transistor to driev a motor ###
 
