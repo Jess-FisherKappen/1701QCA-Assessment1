@@ -15,9 +15,9 @@
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was the basic functions of how the BBC microbit functioms.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as simply having a doorbell that welcomes you before you enter through the door.
 
 ### Experiment 2 - Using a light sensor & analog inputs ###
 
