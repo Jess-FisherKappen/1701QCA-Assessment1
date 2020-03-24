@@ -35,11 +35,11 @@ Temperature/Humidity Sensor
 This project is related to mine because (insert reasons here).
 
 ### Related project 4 ###
-Web-based Thermometer
+Indoor NeoPixel Thermometer
 
-(https://create.arduino.cc/projecthub/khanhhs/arduino-web-based-thermometer-a38752?ref=tag&ref_id=temperature&offset=16)
+(https://create.arduino.cc/projecthub/hackerEsk/indoor-neopixel-thermometer-64f22e?ref=tag&ref_id=temperature&offset=57)
 
-![Image](app.jpg)
+![Image](thermo.jpeg)
 
 This project is related to mine because (insert reasons here).
 
