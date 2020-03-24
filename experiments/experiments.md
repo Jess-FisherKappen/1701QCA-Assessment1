@@ -27,7 +27,7 @@ This experiment could be the basis of a real world application such as (insert s
 ![Image](ex2.jpg)
 ![Image](ex22.jpg)
 
-(Insert a caption here)
+(The first image shows a sun due to brightness, the second image shows a moon when the phototransitor is in darkness)
 
 #### Reflection ####
 
@@ -39,13 +39,12 @@ This experiment could be the basis of a real world application such as (insert s
 
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](ex3.jpg)
 ![Image](ex33.jpg)
 ![Image](ex333.jpg)
 
-(Insert a caption here)
+(The first image shows the light on. The second image shows the light is brighter after the potentiometer is turned. The third image shows the light off once the button is pushed)
 
 #### Reflection ####
 
@@ -57,11 +56,10 @@ This experiment could be the basis of a real world application such as (insert s
 
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](ex4.jpg)
 
-(Insert a caption here)
+(The image shows the fan functioning)
 
 #### Reflection ####
 
@@ -73,12 +71,11 @@ This experiment could be the basis of a real world application such as (insert s
 
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](ex5.jpg)
 ![Image](ex55.jpg)
 
-(Insert a caption here)
+(The first image shows the fan not in motion as the microbit is flat. The second image shows the fan functioning now that the microbit is vertical)
 
 #### Reflection ####
 
