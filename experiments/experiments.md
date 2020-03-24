@@ -15,9 +15,9 @@
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was the basic functions of how the BBC microbit functioms.
+In this experiment, something new to me was or something I learned was the basic functions of how the BBC microbit functioms.I had never really done coding or programming before so this was completely new to me. After doing this experiment though I was starting to get a grasp of things. 
 
-This experiment could be the basis of a real world application such as simply having a doorbell that welcomes you before you enter through the door.
+This experiment could be the basis of a real world application such as simply having a doorbell attached to a screen above it that welcomes you before you enter through the door.
 
 ### Experiment 2 - Using a light sensor & analog inputs ###
 
@@ -31,9 +31,9 @@ This experiment could be the basis of a real world application such as simply ha
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how the phototransitor works with light and dark. It was interesting to test out and see that the image on the microbit changes whether light is exposed to it or not. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as having lights that slowly start increasing their brightness as the sun goes down. You could be able to program the settings so only certain lights turn on. 
 
 ### Experiment 3 - Dimming an LED using a potentiometer ###
 
