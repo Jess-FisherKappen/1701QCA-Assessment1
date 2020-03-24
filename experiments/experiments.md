@@ -63,9 +63,9 @@ This experiment could be the basis of a real world application such as improving
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was seeing how simple it is to actually make a motor run and, in this instance, make a fan move. I had thought basic motor function was more complicated, but after this experiment I have a deeper understanding of the funcction of the small motor. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as a rotating sponge on a waterproof-encased motor. Having a small motor powered by the microbit could reduce the amount of effort used to clean dishes. This could be potentially helpful for people who find it difficult to scrub a lot of dishes or use force with the sponge. 
 
 ### Experiment 5 - Using the accelerometer to control motor speed ###
 
@@ -79,7 +79,6 @@ This experiment could be the basis of a real world application such as (insert s
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how the position and angle of the microbit can effectively control the speed of the fan. It was interesting having a different component control the fan instead of just a switch. 
 
-This experiment could be the basis of a real world application such as (insert something here).
-
+This experiment could be the basis of a real world application such as upgrading a Spirit Leveler to include a motor into it. When the bubble is in the middle, indicating the item is straight, a pencil could then faintly mark the wall/material to ensure they know where the straight line is. 
