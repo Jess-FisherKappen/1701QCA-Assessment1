@@ -39,7 +39,7 @@ Indoor NeoPixel Thermometer
 
 (https://create.arduino.cc/projecthub/hackerEsk/indoor-neopixel-thermometer-64f22e?ref=tag&ref_id=temperature&offset=57)
 
-![Image](thermo.jpeg)
+![Image](thermo.jpg)
 
 This project is related to mine because (insert reasons here).
 
