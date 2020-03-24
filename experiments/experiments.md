@@ -2,20 +2,16 @@
 
 *Markdown reference: https://guides.github.com/features/mastering-markdown/*
 
-## Instructions ##
-
-*For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
 ### Experiment 1 - Say Hello to the BBC Micro:bit ###
 
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image](ex1.png)
 ![Image](ex11.jpg)
 
-(Insert a caption here)
+(The first image shows a smile when the left button is pushed and the second image shows 'hello' when the right button is pushed)
 
 #### Reflection ####
 
@@ -27,7 +23,6 @@ This experiment could be the basis of a real world application such as (insert s
 
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](ex2.jpg)
 ![Image](ex22.jpg)
