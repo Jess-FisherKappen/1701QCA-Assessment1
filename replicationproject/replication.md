@@ -12,7 +12,7 @@ Coronavirus Doorbell
 
 (https://create.arduino.cc/projecthub/roni-bandini/coronavirus-doorbell-114b3f?ref=tag&ref_id=temperature&offset=0)
 
-![Image](missingimage.png)
+![Image](doorbell.jpg)
 
 This project is related to mine because (insert reasons here).
 
@@ -21,7 +21,7 @@ Temperature-controlled RGB LED
 
 (https://create.arduino.cc/projecthub/ben/temperature-controlled-rgb-led-6c8cdf?ref=tag&ref_id=temperature&offset=23)
 
-![Image](missingimage.png)
+![Image](LED.jpg)
 
 This project is related to mine because (insert reasons here).
 
@@ -30,7 +30,7 @@ Temperature/Humidity Sensor
 
 (https://create.arduino.cc/projecthub/techno_z/dht11-temperature-humidity-sensor-98b03b?ref=tag&ref_id=temperature&offset=14)
 
-![Image](missingimage.png)
+![Image](humidity.jpeg)
 
 This project is related to mine because (insert reasons here).
 
@@ -39,7 +39,7 @@ Web-based Thermometer
 
 (https://create.arduino.cc/projecthub/khanhhs/arduino-web-based-thermometer-a38752?ref=tag&ref_id=temperature&offset=16)
 
-![Image](missingimage.png)
+![Image](app.tiff)
 
 This project is related to mine because (insert reasons here).
 
@@ -48,7 +48,7 @@ Pool Temperature Sensor
 
 (https://core-electronics.com.au/projects/pool-temperature-sensor)
 
-![Image](missingimage.png)
+![Image](poolsensor.webp)
 
 This project is related to mine because (insert reasons here).
 
