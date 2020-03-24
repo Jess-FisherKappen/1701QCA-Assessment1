@@ -5,7 +5,6 @@
 ## Replication project choice - Temperature Gauge ##
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
 Coronavirus Doorbell
@@ -14,7 +13,7 @@ Coronavirus Doorbell
 
 ![Image](doorbell.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it also relates to temperature, but instead of having a servo and motor, an alarm sound goes off.
 
 ### Related project 2 ###
 Temperature-controlled RGB LED
