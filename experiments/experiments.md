@@ -13,7 +13,7 @@
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image](ex1.png)
-![Image](img_6119.jpg)
+![Image](ex11.jpg)
 
 (Insert a caption here)
 
