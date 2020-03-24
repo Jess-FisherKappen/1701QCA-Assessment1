@@ -39,7 +39,7 @@ Web-based Thermometer
 
 (https://create.arduino.cc/projecthub/khanhhs/arduino-web-based-thermometer-a38752?ref=tag&ref_id=temperature&offset=16)
 
-![Image](app.tiff)
+![Image](app.jpg)
 
 This project is related to mine because (insert reasons here).
 
