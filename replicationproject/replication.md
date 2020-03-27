@@ -101,11 +101,11 @@ This was my final code after programming the fan to automatically turn on once a
 ![Image](othershot.jpg)
 This was my setup of the microbit and breadboard before I had hidden the components behind the paper. 
 
-![Image](inspiration.jpg)
-This was my inspiration for the temperature gauge, the design and the coding of the microbit. It is essentially the same, with an added fan. (https://www.hackster.io/anish78/how-to-create-temperature-gauge-using-micro-bit-a601cc)
-
 ![Image](ex5.jpg)
 The setup for my fan was the same as the setup I had used for experiment 5 that was in the booklet. 
+
+The attached website was my inspiration for the temperature gauge, the design and the coding of the microbit. It is essentially the same, with an added fan. (https://www.hackster.io/anish78/how-to-create-temperature-gauge-using-micro-bit-a601cc)
+
 
 ## Project outcome ##
 ### TEMPERATURE GAUGE ###
