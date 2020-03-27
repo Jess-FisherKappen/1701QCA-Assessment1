@@ -106,23 +106,18 @@ This project is related to mine because it uses an external sensor that can test
 
 *Complete the following information.*
 
-### Project title ###
+### TEMPERATURE GAUGE ###
 
 ### Project description ###
-
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+This is a basic temperature gauge, where it can read the outside temperature and show you on a rough gauge using a servo arm. If the temperature reaches over 28 degrees celcius, the fan is then automatically turned on. This is a great indicator for when items get too hot. This would be great for electronic developers/builders. For example, if they build a robot that has many interactive functions, the electronics would then get too hot and ruin the robot. However, having a temperature gauge and then attaching an automatically triggered fan would rectify that, as the fan can immediately trigger before the robot overheats. 
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
+![Image](final.jpg)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
+![Image](othershot.jpg)
 
 ### Reflection ###
 
