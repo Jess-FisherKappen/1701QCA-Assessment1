@@ -107,7 +107,6 @@ This was my inspiration for the temperature gauge, the design and the coding of 
 ![Image](ex5.jpg)
 The setup for my fan was the same as the setup I had used for experiment 5 that was in the booklet. 
 
-
 ## Project outcome ##
 ### TEMPERATURE GAUGE ###
 
