@@ -99,7 +99,8 @@ This was my original code without connecting the fan
 This was my final code after programming the fan to automatically turn on once a certain temperature is hit
 
 ![Image](othershot.jpg)
-This was my setup of the microbit and breadboard 
+This was my setup of the microbit and breadboard before I had hidden the components behind the paper. 
+
 ![Image](missingimage.png)
 
 
@@ -118,12 +119,4 @@ This is a basic temperature gauge, where it can read the outside temperature and
 ![Image](othershot.jpg)
 
 ### Reflection ###
-I felt that the most successful part of my project was getting the fan to be triggered by a certain temperature that the microbit's sensor picks up. I believe that I had the correct code, and the wiring setup seemed correct; however I could not seem to get the servo moving smoothly or well. The servo kept moving very randomly and didn't seem to really display the rough temperature that the microbit was reading. After warming up the microbit, it also took a long time before the servo's arm actually turned over 90 degrees. Originally, my project was going to just be the temperature gauge, but to make it more interesting I attached the fan as well and made it trigger after the microbit detected a certain temperature. 
-
-
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
-
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
-
-This temperature gauge could be used on a bigger, more detailed scale.  LED lights could be attached as well. Onced the fan is activated, the light could turn on/red to indicate that the system/item is getting too hot and needs to be cooled down. Once the temperature decreases, the fan would turn off and the light could turn off/green to say the system/item will not overheat. This would be handy for laptops espeically, as they can overheat quickly without the user really knowing.  
+I felt that the most successful part of my project was getting the fan to be triggered by a certain temperature that the microbit's sensor picks up. I believe that I had the correct code, and the wiring setup seemed correct; however I could not seem to get the servo moving smoothly or well. The servo kept moving very randomly and didn't seem to really display the rough temperature that the microbit was reading. After warming up the microbit, it also took a long time before the servo's arm actually turned over 90 degrees. Originally, my project was going to just be the temperature gauge, but to make it more interesting I attached the fan as well and made it trigger after the microbit detected a certain temperature. This temperature gauge could be used on a bigger, more detailed scale.  LED lights could be attached as well. Onced the fan is activated, the light could turn on/red to indicate that the system/item is getting too hot and needs to be cooled down. Once the temperature decreases, the fan would turn off and the light could turn off/green to say the system/item will not overheat. This would be handy for laptops espeically, as they can overheat quickly without the user really knowing.  
