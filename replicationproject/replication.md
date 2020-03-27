@@ -87,11 +87,6 @@ How this relates to the project I am working on: My temperature gauge can improv
 ![Image](flowchart.jpg)
 
 ## Process documentation
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
-
 ![Image](code2.jpg)
 This was my original code without connecting the fan 
 
@@ -105,6 +100,8 @@ This was my setup of the microbit and breadboard before I had hidden the compone
 The setup for my fan was the same as the setup I had used for experiment 5 that was in the booklet. 
 
 The attached website was my inspiration for the temperature gauge, the design and the coding of the microbit. It is essentially the same, with an added fan. (https://www.hackster.io/anish78/how-to-create-temperature-gauge-using-micro-bit-a601cc)
+
+The attached youtube video was my  inspiration for the fan to be activated when heat was applied to the microbit. I then had to figure out how to code it to be activated only when the microbit temperature reached a certain degree. (https://www.youtube.com/watch?v=iilfeimMDjM)
 
 
 ## Project outcome ##
