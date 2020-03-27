@@ -22,7 +22,7 @@ Temperature-controlled RGB LED
 
 ![Image](LED.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it is also temerature controlled device. Instead of turning a fan on, it turns on an LED; this is a similar function to mine. 
 
 ### Related project 3 ###
 Temperature/Humidity Sensor
@@ -31,7 +31,7 @@ Temperature/Humidity Sensor
 
 ![Image](humidity.jpeg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because this is a temperature sensor that can inform the user of the temperature that, instead of a fan, the source is reading and display it on a separate screen. 
 
 ### Related project 4 ###
 Indoor NeoPixel Thermometer
@@ -40,7 +40,7 @@ Indoor NeoPixel Thermometer
 
 ![Image](thermo.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it changes the neopixel stick colour depending on the temperature that is being read by a separate device.
 
 ### Related project 5 ###
 Pool Temperature Sensor
@@ -49,7 +49,7 @@ Pool Temperature Sensor
 
 ![Image](poolsensor.webp)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses an external sensor that can test the temperature of the water. The reading is then displayed on a separate LCD screen.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
