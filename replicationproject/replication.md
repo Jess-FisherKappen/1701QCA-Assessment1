@@ -52,55 +52,56 @@ Pool Temperature Sensor
 This project is related to mine because it uses an external sensor that can test the temperature of the water. The reading is then displayed on a separate LCD screen.
 
 ## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
-
-*For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
+What I thought before: I didn't realise how important experience truly was for interaction. I obviously knew interaction was important, for example an engaging museum where you can touch the displays and make them come to life; however I didn't know that something as simple as the feel of a light-switch was also thought of in the interaction.
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+What I learned: How emotion and cognition really effects the interaction between user and experience. I don't nornmally associate emotion with interactive experiences, and if I do it is usually something negative that somone may want to avoid doing. But combining both can help the person develop a positive interaction with that experience and change the way they look at it. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+What I would like to know more about: How does conceptual models help designs, experiences and interactions that are supposed to make you think? Is it just mapped differently or is it completely omitted?
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
-
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+How this relates to the project I am working on: I believe this relates to my project as there is the aesthetic experience for the project that can attract a person to the interaction.
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+What I thought before: I didn't think microinteractions were the design. I thought they were two different things that just existed alongside each other. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+What I learned: That the experience of the microinteraction is more often than not expected to be there with the other features of the product that is used/purchased.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+What I would like to know more about: Is there a way to make microinteractions link with each other without affecting their individual purposes?
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+How this relates to the project I am working on: My microinteraction is the fan that automatically turns on when the microbit reaches temperature X.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+What I thought before: That whenever a new technology is created, only the technology is changed and the basic platform remains relatively the same unless a major change in technology has been discovered.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+What I learned: I had discoverd that the platform of the product is the base where the design of the newest technology is presented. I did not think the platform was all that important and wasn't aware how much it is constantly changing for each new technology.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+What I would like to know more about: How can we survive without the digital control in the physical world? Is it more feasible to go back to the olden times when the technlogy was nowhere near as advanced?
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+How this relates to the project I am working on: My temperature gauge can improve on the current thermostats, changing the platform and giving users more control over it.  
 
 
 ## Interaction flowchart ##
 ![Image](flowchart.jpg)
 
 ## Process documentation
-
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
 
-*This should have quite a lot of information!*
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
+![Image](code2.jpg)
+This was my original code without connecting the fan 
+
+![Image](code1.jpg)
+This was my final code after programming the fan to automatically turn on once a certain temperature is hit
+
+![Image](othershot.jpg)
+This was my setup of the microbit and breadboard 
 ![Image](missingimage.png)
 
-*Include screenshots of the code you have used.*
 
 ## Project outcome ##
 ### TEMPERATURE GAUGE ###
