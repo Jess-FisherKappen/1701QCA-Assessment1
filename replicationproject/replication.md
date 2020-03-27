@@ -103,9 +103,6 @@ This project is related to mine because it uses an external sensor that can test
 *Include screenshots of the code you have used.*
 
 ## Project outcome ##
-
-*Complete the following information.*
-
 ### TEMPERATURE GAUGE ###
 
 ### Project description ###
