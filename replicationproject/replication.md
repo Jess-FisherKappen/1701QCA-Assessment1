@@ -88,7 +88,7 @@ This project is related to mine because (insert reasons here).
 
 
 ## Interaction flowchart ##
-![Image](flowchart.png)
+![Image](flowchart.jpg)
 
 ## Process documentation
 
